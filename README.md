@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="golang" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=golang&logoColor=white" />
+  <img alt="go" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
