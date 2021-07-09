@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhangzhichaolove&layout=compact&theme=material-palenight" />
+  <a href="https://github.com/zhangzhichaolove">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhangzhichaolove&layout=compact&theme=material-palenight" />
+  </a>
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhangzhichaolove&repo=91porn-android&theme=material-palenight" />
+  <a href="https://github.com/zhangzhichaolove/91porn-android">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhangzhichaolove&repo=91porn-android&theme=material-palenight" />
+  </a>
 </p>
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zhangzhichaolove&show_icons=true&theme=gotham)]()
