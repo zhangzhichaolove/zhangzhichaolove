@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/zhangzhichaolove">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhangzhichaolove&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhangzhichaolove&langs_count=10&layout=compact&theme=material-palenight" />
   </a>
 </p>
 <p>
