@@ -42,4 +42,5 @@ Here are some ideas to get you started:
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="go" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python&logoColor=white" />
 </p>
