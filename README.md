@@ -24,3 +24,9 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+<p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhangzhichaolove&layout=compact&theme=material-palenight" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhangzhichaolove&repo=91porn-android&theme=material-palenight" />
+</p>
