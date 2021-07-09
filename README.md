@@ -51,4 +51,8 @@ Here are some ideas to get you started:
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-E34A86?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-E34A86?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="markdown" src="https://img.shields.io/badge/-Markdown-E34A86?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/-Linux-E34A86?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="centos" src="https://img.shields.io/badge/-CentOS-E34A86?style=flat-square&logo=centos&logoColor=white" />
+  <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34A86?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="debian" src="https://img.shields.io/badge/-Debian-E34A86?style=flat-square&logo=debian&logoColor=white" />
 </p>
