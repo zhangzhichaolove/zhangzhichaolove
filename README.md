@@ -45,4 +45,5 @@ Here are some ideas to get you started:
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python&logoColor=white" />
   <img alt="android" src="https://img.shields.io/badge/-Android-F05032?style=flat-square&logo=android&logoColor=white" />
+  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-E34A86?style=flat-square&logo=nginx&logoColor=white" />
 </p>
