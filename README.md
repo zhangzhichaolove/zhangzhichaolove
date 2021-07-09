@@ -48,4 +48,5 @@ Here are some ideas to get you started:
   <img alt="nginx" src="https://img.shields.io/badge/-Nginx-E34A86?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="spring" src="https://img.shields.io/badge/-Spring-E34A86?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-E34A86?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-E34A86?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
