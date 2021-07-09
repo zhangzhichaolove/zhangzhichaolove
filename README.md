@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python&logoColor=white" />
   <img alt="android" src="https://img.shields.io/badge/-Android-F05032?style=flat-square&logo=android&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/-Flutter-E34A86?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-Nginx-E34A86?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="spring" src="https://img.shields.io/badge/-Spring-E34A86?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-E34A86?style=flat-square&logo=springboot&logoColor=white" />
@@ -56,4 +57,6 @@ Here are some ideas to get you started:
   <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34A86?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="debian" src="https://img.shields.io/badge/-Debian-E34A86?style=flat-square&logo=debian&logoColor=white" />
   <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-E34A86?style=flat-square&logo=manjaro&logoColor=white" />
+  <img alt="macos" src="https://img.shields.io/badge/-macOS-E34A86?style=flat-square&logo=macos&logoColor=white" />
+  <img alt="windows" src="https://img.shields.io/badge/-Windows-E34A86?style=flat-square&logo=windows&logoColor=white" />
 </p>
