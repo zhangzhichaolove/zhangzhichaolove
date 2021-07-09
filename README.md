@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-F05032?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F05032?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="go" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=white" />
