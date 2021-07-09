@@ -49,4 +49,6 @@ Here are some ideas to get you started:
   <img alt="spring" src="https://img.shields.io/badge/-Spring-E34A86?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-E34A86?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-E34A86?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-E34A86?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="markdown" src="https://img.shields.io/badge/-Markdown-E34A86?style=flat-square&logo=markdown&logoColor=white" />
 </p>
