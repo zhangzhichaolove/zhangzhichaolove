@@ -59,4 +59,6 @@ Here are some ideas to get you started:
   <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-E34A86?style=flat-square&logo=manjaro&logoColor=white" />
   <img alt="macos" src="https://img.shields.io/badge/-macOS-E34A86?style=flat-square&logo=macos&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/-Windows-E34A86?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="apache" src="https://img.shields.io/badge/-Apache-E34A86?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-E34A86?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
