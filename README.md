@@ -55,4 +55,5 @@ Here are some ideas to get you started:
   <img alt="centos" src="https://img.shields.io/badge/-CentOS-E34A86?style=flat-square&logo=centos&logoColor=white" />
   <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34A86?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="debian" src="https://img.shields.io/badge/-Debian-E34A86?style=flat-square&logo=debian&logoColor=white" />
+  <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-E34A86?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
