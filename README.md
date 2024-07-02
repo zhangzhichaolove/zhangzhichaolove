@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <p>
   <a href="https://github.com/zhangzhichaolove/tool">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhangzhichaolove&repo=WebServer&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhangzhichaolove&repo=tool&theme=material-palenight" />
   </a>
 </p>
 <p>
