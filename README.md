@@ -73,3 +73,6 @@ Here are some ideas to get you started:
   <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-E34A86?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="synology" src="https://img.shields.io/badge/-Synology-E34A86?style=flat-square&logo=synology&logoColor=white" />
 </p>
+
+## 访问统计
+<img height="30px" src = "https://profile-counter.glitch.me/zhangzhichaolove/count.svg" alt ="Loading">
